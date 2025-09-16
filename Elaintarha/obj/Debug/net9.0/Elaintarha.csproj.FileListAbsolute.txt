@@ -1,0 +1,15 @@
+U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\bin\Debug\net9.0\Elaintarha.exe
+U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\bin\Debug\net9.0\Elaintarha.deps.json
+U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\bin\Debug\net9.0\Elaintarha.runtimeconfig.json
+U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\bin\Debug\net9.0\Elaintarha.dll
+U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\bin\Debug\net9.0\Elaintarha.pdb
+U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.GeneratedMSBuildEditorConfig.editorconfig
+U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.AssemblyInfoInputs.cache
+U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.AssemblyInfo.cs
+U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.csproj.CoreCompileInputs.cache
+U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.sourcelink.json
+U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.dll
+U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\obj\Debug\net9.0\refint\Elaintarha.dll
+U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.pdb
+U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.genruntimeconfig.cache
+U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\obj\Debug\net9.0\ref\Elaintarha.dll
