@@ -13,3 +13,18 @@ U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\obj\Debug\net9.0\refin
 U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.pdb
 U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.genruntimeconfig.cache
 U:\Syksy 25\Client_side_programming\Elaintarha\Elaintarha\obj\Debug\net9.0\ref\Elaintarha.dll
+C:\Users\elkku\Source\Repos\Elaintarha\Elaintarha\bin\Debug\net9.0\Elaintarha.exe
+C:\Users\elkku\Source\Repos\Elaintarha\Elaintarha\bin\Debug\net9.0\Elaintarha.deps.json
+C:\Users\elkku\Source\Repos\Elaintarha\Elaintarha\bin\Debug\net9.0\Elaintarha.runtimeconfig.json
+C:\Users\elkku\Source\Repos\Elaintarha\Elaintarha\bin\Debug\net9.0\Elaintarha.dll
+C:\Users\elkku\Source\Repos\Elaintarha\Elaintarha\bin\Debug\net9.0\Elaintarha.pdb
+C:\Users\elkku\Source\Repos\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elkku\Source\Repos\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.AssemblyInfoInputs.cache
+C:\Users\elkku\Source\Repos\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.AssemblyInfo.cs
+C:\Users\elkku\Source\Repos\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.csproj.CoreCompileInputs.cache
+C:\Users\elkku\Source\Repos\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.sourcelink.json
+C:\Users\elkku\Source\Repos\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.dll
+C:\Users\elkku\Source\Repos\Elaintarha\Elaintarha\obj\Debug\net9.0\refint\Elaintarha.dll
+C:\Users\elkku\Source\Repos\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.pdb
+C:\Users\elkku\Source\Repos\Elaintarha\Elaintarha\obj\Debug\net9.0\Elaintarha.genruntimeconfig.cache
+C:\Users\elkku\Source\Repos\Elaintarha\Elaintarha\obj\Debug\net9.0\ref\Elaintarha.dll

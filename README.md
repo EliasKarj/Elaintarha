@@ -1,6 +1,5 @@
 # Elaintarha
 
-
 ## Luokkakaavio
 
 ```mermaid
@@ -35,11 +34,12 @@ class Lion {
 }
 
 class Parrot {
-  + List<string> Vocabulary
+  + List~string~ Vocabulary
   + string Species
   + string MakeSound()
   + void Feed(string food)
   + void Fly()
+  + string Speak(int index)
 }
 
 class Snake {
@@ -51,14 +51,14 @@ class Snake {
 
 class IAnimalRepository {
   <<interface>>
-  + Task<List<Animal>> LoadAsync()
+  + Task~List<Animal>~ LoadAsync()
   + Task SaveAsync(IEnumerable<Animal> animals)
 }
 
 class JsonAnimalRepository {
   - string _path
   + JsonAnimalRepository(string path)
-  + Task<List<Animal>> LoadAsync()
+  + Task~List<Animal>~ LoadAsync()
   + Task SaveAsync(IEnumerable<Animal> animals)
 }
 
@@ -67,7 +67,7 @@ class ZooService {
   - List<Animal> _animals
   + IReadOnlyList<Animal> Animals
   + void AddAnimal(Animal a)
-  + IEnumerable<string> MakeAllSounds()
+  + IEnumerable~string~ MakeAllSounds()
   + Task SaveAsync()
   + Task LoadAsync()
 }

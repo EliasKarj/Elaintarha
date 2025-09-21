@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Elaintarha")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c98b805be157b2b2057b9843e66def5fe7dd041c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b139f02ebd2a09ea9a40499ee74cd73d5c5dc555")]
 [assembly: System.Reflection.AssemblyProductAttribute("Elaintarha")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Elaintarha")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
